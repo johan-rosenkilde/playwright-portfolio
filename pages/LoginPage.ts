@@ -21,5 +21,3 @@ export class LoginPage {
     await this.loginButton.click();
   }
 }
-
-// bonus point hvis man ikke logger ind gennem ui? undersøg
